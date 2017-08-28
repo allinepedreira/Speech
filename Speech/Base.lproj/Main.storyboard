@@ -109,7 +109,7 @@
                                     <constraint firstAttribute="height" constant="64" id="YLF-Iv-wft"/>
                                     <constraint firstAttribute="width" constant="63" id="cAy-rZ-GAM"/>
                                 </constraints>
-                                <state key="normal" image="microphone"/>
+                                <state key="normal" image="audio"/>
                                 <connections>
                                     <action selector="convert:" destination="BYZ-38-t0r" eventType="touchUpInside" id="xb9-vn-bhn"/>
                                 </connections>
@@ -188,7 +188,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="microphone" width="96" height="96"/>
+        <image name="audio" width="82" height="82"/>
         <image name="rectangle" width="272" height="131"/>
     </resources>
 </document>
