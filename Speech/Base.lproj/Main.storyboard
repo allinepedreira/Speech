@@ -140,6 +140,10 @@
                                 <constraints>
                                     <constraint firstAttribute="width" constant="215" id="vqF-HX-0EG"/>
                                 </constraints>
+                                <connections>
+                                    <outlet property="dataSource" destination="BYZ-38-t0r" id="uaI-3E-iPE"/>
+                                    <outlet property="delegate" destination="BYZ-38-t0r" id="x8a-wM-CgI"/>
+                                </connections>
                             </pickerView>
                         </subviews>
                         <color key="backgroundColor" red="0.86666666670000003" green="0.2156862745" blue="0.41568627450000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
